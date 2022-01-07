@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group>
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_icon"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/savings"
+        android:icon="@drawable/savings_icon"
+        android:title="Savings" />
+
+
+
+    <item
+        android:id="@+id/invest"
+        android:icon="@drawable/invest_icon"
+        android:title="Invest" />
+
+
+    <item
+        android:id="@+id/crypto"
+        android:icon="@drawable/crypto_icon"
+        android:title="Crypto" />
+
+</group>
+
+
+
+
+</menu>
