@@ -4,7 +4,8 @@ plugins {
 }
 
 android {
-    compileSdk 30
+    namespace 'com.investment'
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.investment"
