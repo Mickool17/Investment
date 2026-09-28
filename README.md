@@ -86,4 +86,4 @@ You can also open the folder in Android Studio and press **Run**.
 
 ## Author
 
-**Oladimeji Micheal Tomisin** — [GitHub @Mickool17](https://github.com/Mickool17)
+Built by [@Mickool17](https://github.com/Mickool17)
